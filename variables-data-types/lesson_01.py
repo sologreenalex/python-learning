@@ -6,5 +6,7 @@ city="Alexandria"
 weight=110
 is_job=True
 future_age=5
+birth_year=1977
+current_year=2026
 
-print(f"My Name is : {name} , I am {age} years old , I live in {city} , my weight is {weight}, Yes I have Job {is_job}, After 5 years my age is {age+future_age}")
+print(f"My Name is : {name} , I am {age} years old , I live in {city} , my weight is {weight}, Yes I have Job {is_job}, After 5 years my age is {age+future_age},{current_year-birth_year}")
