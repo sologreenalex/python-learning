@@ -6,6 +6,21 @@
 
 ## 🎯 المفاهيم المطبقة في المشروع
 
+## Concepts Used
+
+- Variables
+- Strings
+- Integers
+- Floats
+- Booleans
+- Basic arithmetic
+- f-strings
+
+## How to Run
+
+````bash
+python main.py
+
 - **المتغيرات (Variables):** تخزين البيانات واستدعاؤها بسهولة.
 - **أنواع البيانات (Data Types):**
   - النصوص (`str`): مثل `name` و `city`.
@@ -27,7 +42,7 @@ is_job = True
 future_age = 5
 
 print(f"My Name is : {name} , I am {age} years old , I live in {city} , my weight is {weight}, Yes I have Job {is_job}, After 5 years my age is {age+future_age}")
-```
+````
 
 ---
 
